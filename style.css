@@ -1,0 +1,33 @@
+body{
+    background-color: #faf4d3;
+    color: #0c1618;
+    font-family: "Share Tech", sans-serif;
+}
+
+h1{
+    text-align: center;
+    background-color: #004643;
+    color: #faf4d3;
+    font-family: "Share Tech", sans-serif;
+}
+h2{
+    text-align: center;
+    color: red;
+    font-family: 'theFont';
+    font-family: "Share Tech", sans-serif;
+}
+h3 {
+    text-align: center;
+    font-family: 'theFont';
+    font-family: "Share Tech", sans-serif;
+}
+.border{
+    color: #004643;
+    border-style: dotted;
+}
+.share-tech-regular {
+    font-family: "Share Tech", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
